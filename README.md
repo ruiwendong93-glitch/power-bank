@@ -2,7 +2,6 @@ This repository contains native KiCad  project files generated entirely by an AI
 
 🌟 block diagram
 
-(Drag and drop your screenshot here)
 <img width="721" height="502" alt="block diagram" src="https://github.com/user-attachments/assets/44262a4c-c471-4dce-b8e9-4ca0fadf0500" />
 
 📝 Project Description
